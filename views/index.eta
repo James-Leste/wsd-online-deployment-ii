@@ -1,5 +1,5 @@
 <html>
     <body>
-        Visits: (<%= it.count%>)
+        Visits: <%= it.count%>
     </body>
 </html>
